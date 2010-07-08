@@ -1,6 +1,6 @@
 <?php
 /*
- Plugin Name: JQuery Featured Content
+ Plugin Name: JQuery Featured Content Gallery
  Plugin URI: http://www.cibydesign.co.uk
  Description: Similar to the famous Featured Content Gallery but using JQuery thus avoiding conflicts with other plugins.  I also tried to use a different, I think simpler, way of administrating the options.
  Version: 0.1
@@ -8,7 +8,8 @@
  Author URI: http://www.cibydesign.co.uk
  */
 
-/*  Copyright 2010  David Smith  (email : david@cibydesign.co.uk)
+/*  
+ Copyright 2010  David Smith  (email : david@cibydesign.co.uk)
  This program is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation; either version 2 of the License, or
