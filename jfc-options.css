@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+
+#frames_table {
+	width: 100%;
+	background-color: #D0DAFD;
+	color: #666699;
+}
+
+#frames_table th {
+	background-color:#B9C9FE;
+	color:#003399
+}
+
+#frames_table td {
+	text-align: center;
+}
+
+#jfc-form-image img {
+	border: 1px dashed red;
+}
