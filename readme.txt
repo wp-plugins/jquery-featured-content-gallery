@@ -1,8 +1,9 @@
 === JQuery Featured Content Gallery ===
 Author: David Smith
 Author URI: http://www.cibydesign.co.uk
+Plugin URI: http://www.cibydesign.co.uk/resources-and-downloads/
 Contributors: David Smith
-Donate link: http://www.cibydesign.co.uk/resources
+Donate link: http://www.cibydesign.co.uk/resources-and-downloads/
 Tags: slideshow, featured content, FCG, JQuery
 Requires at least: 2.7
 Tested up to: 3.0
