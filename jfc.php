@@ -3,7 +3,7 @@
  Plugin Name: JQuery Featured Content Gallery
  Plugin URI: http://www.cibydesign.co.uk/resources-and-downloads/
  Description: Similar to the famous Featured Content Gallery but using JQuery thus avoiding conflicts with other plugins.  I also tried to use a different, I think simpler, way of administrating the options.
- Version: 1.0
+ Version: 1.1
  Author: David Smith
  Author URI: http://www.cibydesign.co.uk
  */

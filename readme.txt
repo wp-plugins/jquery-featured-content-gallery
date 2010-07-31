@@ -40,6 +40,9 @@ This plugin was created because I needed the current functionality.  If I need e
 = 1.0 =
 Initial Release
 
+= 1.1 =
+Removed unnecessary CSS from jfc.css.php
+
 == To Do ==
 
 * Validate all fields on admin pages
