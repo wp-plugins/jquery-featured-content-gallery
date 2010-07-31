@@ -21,8 +21,6 @@ header("Content-type: text/css");
 
 #jfcg div {
     position:absolute;
-    top: 0px;
-    left:-150px;
     z-index:8;
     filter: alpha(opacity=0);
     opacity:0.0;
@@ -30,15 +28,7 @@ header("Content-type: text/css");
 }
 
 #jfcg h2 {
-    font-family: Arial,Verdana,"Helvetica",Times New Roman;
-    font-size: 1.5em;
     position:absolute;
-    left: 30px;
-    top: 175px;
-    background-color:none;
-    color:#000d61;
-    width:60%;
-    margin-bottom:0;
     display:none;
 }
 
@@ -54,6 +44,31 @@ header("Content-type: text/css");
     opacity:0.0;
 }
 
+/*
+ * Below is some extra CSS that I have used for this plugin in the past.
+ * The idea is to give you an example of how I moved the gallery around 
+ * my page and changed the caption position and style.
+ * This CSS should be placed in your Theme CSS files to avoid any problems when upgrading the plugin.
+ */
+
+/*
+#jfcg div {
+    top: 0px;
+    left:-150px;
+}
+
+#jfcg h2 {
+    font-family: Arial,Verdana,"Helvetica",Times New Roman;
+    font-size: 1.5em;
+    left: 30px;
+    top: 175px;
+    background-color:none;
+    color:#000d61;
+    width:60%;
+    margin-bottom:0;
+}
+
 #jfcg a img{
 }
+*/
 
