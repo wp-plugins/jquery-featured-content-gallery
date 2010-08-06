@@ -3,7 +3,7 @@
  Plugin Name: JQuery Featured Content Gallery
  Plugin URI: http://www.cibydesign.co.uk/resources-and-downloads/
  Description: Similar to the famous Featured Content Gallery but using JQuery thus avoiding conflicts with other plugins.  I also tried to use a different, I think simpler, way of administrating the options.
- Version: 1.1
+ Version: 1.2
  Author: David Smith
  Author URI: http://www.cibydesign.co.uk
  */
@@ -87,7 +87,7 @@ if (!class_exists('JfcPlugin')) {
 
 		global $wpdb;
 		$table_name = $wpdb->prefix."jfc";
-		$rs = $wpdb->get_results("SELECT * FROM ".$table_name."");
+		$rs = $wpdb->get_results("SELECT * FROM ".$table_name." ORDER BY `id`");
 
 		return $rs;
 	}

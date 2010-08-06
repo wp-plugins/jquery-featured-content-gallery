@@ -43,6 +43,10 @@ Initial Release
 = 1.1 =
 Removed unnecessary CSS from jfc.css.php
 
+= 1.2 =
+Fixed gallery icons path issue
+Added ability to change order of frames
+
 == To Do ==
 
 * Validate all fields on admin pages
