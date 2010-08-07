@@ -19,6 +19,8 @@ When I started making this plugin I wanted to do it in the most 'proper' way pos
 
 The original inspiration came from Jon Raasch's excellent tutorial http://jonraasch.com/blog/a-simple-jquery-slideshow
 
+If you use this plugin and you like it, please give me a nice star rating and report that it works on the wordpress.org page.  If you have any problems, please report them on the forum page for the plugin so I can fix 'em.  It's hard to tell how my plugin is doing and make it better without any feedback.
+
 == Installation ==
 
 1. Upload the JFC folder to the `/wp-content/plugins/` directory
