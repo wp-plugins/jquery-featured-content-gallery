@@ -46,8 +46,7 @@ Initial Release
 Removed unnecessary CSS from jfc.css.php
 
 = 1.2 =
-*Fixed gallery icons path issue
-*Added ability to change order of frames
+Fixed gallery icons path issue and added ability to change order of frames
 
 == To Do ==
 
